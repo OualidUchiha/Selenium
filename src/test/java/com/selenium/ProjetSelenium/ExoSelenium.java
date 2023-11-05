@@ -40,6 +40,6 @@ public class ExoSelenium {
 	Files.copy(capture1.toPath(),destination1,StandardCopyOption.REPLACE_EXISTING);
 	Thread.sleep(3000);
 	driver.quit();
-	// test commit
+	// test commit 1
 	}
 }
